@@ -2,6 +2,8 @@
 
 This is a simple script that generates random gift card codes and validates them.
 
+* Note - Code Doesn't Make Orignal Code, It's just was for Learning Purpose.
+
 ## Usage
 
 To use this script, simply run the `gift_card_code_generator.py` file with Python 3. 
